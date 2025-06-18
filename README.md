@@ -1,7 +1,9 @@
 
 <!-- Banner -->
 
-
+<p align="center">
+  <img src="https://64.media.tumblr.com/d7d9f221e9dccc720040cc113125f7b5/tumblr_p8gvt0iSHm1ro6plmo6_500.gifv" width="70%"/>
+</p>
 <!-- Sobre mim -->
 <h1 align="center">💫 About Me</h1>
 
