@@ -1,7 +1,6 @@
+
 <!-- Banner -->
-<p align="center">
-  <img src="https://64.media.tumblr.com/d7d9f221e9dccc720040cc113125f7b5/tumblr_p8gvt0iSHm1ro6plmo6_500.gifv" width="100%"/>
-</p>
+
 
 <!-- Sobre mim -->
 <h1 align="center">💫 About Me</h1>
@@ -15,9 +14,7 @@
 🚀📺 Sci-fi & mecha anime enthusiast
 </p>
 
----
 
-<!-- Habilidades -->
 <h1 align="center">🛠 Languages & Tools</h1>
 
 <p align="center">
@@ -26,9 +23,7 @@
   </a>
 </p>
 
----
 
-<!-- Estatísticas do GitHub -->
 <h1 align="center">📊 GitHub Stats</h1>
 
 <p align="center">
@@ -40,15 +35,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThalesK2005&theme=dark&hide_border=false&layout=compact" />
 </p>
 
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=ThalesK2005&icon=0&color=0" alt="visit counter"/>
-  </a>
-</p>
 
----
 
-<!-- Redes sociais -->
 <h3 align="center">🌐 Connect with me</h3>
 
 <p align="center">
