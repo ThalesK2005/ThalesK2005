@@ -1,8 +1,6 @@
 # 👋 About Me
 
-<p align="center">
-🎓 20 years old • 💻 Studying Computer Science • 💡 Passionate about technology
-</p>
+🎓 I'm 20 years old <br> 💻 Studying Computer Science <br> 💡 Passionate about technology <br>
 
 ---
 
